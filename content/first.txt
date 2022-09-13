@@ -1,0 +1,48 @@
+Important Subjective Topics For Interviews
+1. Operating System
+Compiler, Loader, Linker
+Process
+Threads
+Process Scheduling
+Paging
+Segmentation
+Mutex/Semaphores
+2. DBMS
+Normalisation
+Locking
+Concurrency Control
+File vs DBMS
+SQL vs NoSQL
+Indexing
+ACID Properties
+3. Computer Networks
+OSI Model
+Subnetting/ Supernetting
+How Internet Works
+Routing Algorithms
+IPv4 vs IPv6
+http vs https
+4. OOPS
+Class
+Object
+Abstraction
+Encapsulation
+Inheritance
+Polymorphism
+5. Linux
+Inode
+File Structure
+Priority in Linux
+fork()/ pipe()
+Multithreading
+How OS works?
+Basic commands
+6. System Design
+CAP theorem
+Scaling
+Load Balancer
+Distributed System
+Caching and its types
+Sharding
+API (REST vs SOAP)
+first text file
